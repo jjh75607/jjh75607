@@ -1,5 +1,11 @@
 ## Hello 👋
 
+## Open Source
+
+- [quick-perf/quickperf#264](https://github.com/quick-perf/quickperf/pull/264) — Fix duplicate query counting when a DataSource bean delegates to another DataSource bean
+- [spring-projects/spring-ldap#1586](https://github.com/spring-projects/spring-ldap/pull/1586) — Update Build Prerequisite to JDK 25
+- [vanniktech/gradle-maven-publish-plugin#1413](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/1413) — docs: document conflicts with the java extension
+
 <!--
 **jjh75607/jjh75607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
