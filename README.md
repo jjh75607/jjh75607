@@ -8,6 +8,7 @@
 - [vanniktech/gradle-maven-publish-plugin#1413](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/1413) — Document conflicts with the java extension
 - [spring-projects/spring-boot#51410](https://github.com/spring-projects/spring-boot/pull/51410) — Honour a wrapper's unwrap when resolving the root DataSource
 - [diffplug/spotless#3032](https://github.com/diffplug/spotless/pull/3032) — Expand a directory passed to targetExclude into the files under it
+- [detekt/detekt#9652](https://github.com/detekt/detekt/pull/9652) — Report unused constructor parameters from UnusedParameter
 
 <!--
 **jjh75607/jjh75607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
