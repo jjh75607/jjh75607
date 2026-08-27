@@ -11,6 +11,7 @@
 - [detekt/detekt#9652](https://github.com/detekt/detekt/pull/9652) — Report unused constructor parameters from UnusedParameter
 - [spring-projects/spring-batch#5502](https://github.com/spring-projects/spring-batch/pull/5502) — Allow javax.xml types so a QName stored in the execution context survives a restart
 - [assertj/assertj#4375](https://github.com/assertj/assertj/pull/4375) — Show the cause passed to SoftAssertions.fail in the assertAll error message
+- [spring-projects/spring-batch#5503](https://github.com/spring-projects/spring-batch/pull/5503) — Check only the last execution when restarting a job instance
 
 <!--
 **jjh75607/jjh75607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
