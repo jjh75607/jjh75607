@@ -4,7 +4,7 @@
 
 - [diffplug/spotless#3022](https://github.com/diffplug/spotless/pull/3022) — Resolve registerDependencies output lazily so a custom build directory applies
 - [quick-perf/quickperf#264](https://github.com/quick-perf/quickperf/pull/264) — Fix duplicate query counting when a DataSource bean delegates to another DataSource bean
-- [spring-projects/spring-ldap#1586](https://github.com/spring-projects/spring-ldap/pull/1586) — Update Build Prerequisite to JDK 25
+- [spring-projects/spring-ldap#1586](https://github.com/spring-projects/spring-ldap/pull/1586) — Document that building Spring LDAP requires JDK 25
 - [vanniktech/gradle-maven-publish-plugin#1413](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/1413) — Document conflicts with the java extension
 - [spring-projects/spring-boot#51410](https://github.com/spring-projects/spring-boot/pull/51410) — Honour a wrapper's unwrap when resolving the root DataSource
 - [diffplug/spotless#3032](https://github.com/diffplug/spotless/pull/3032) — Expand a directory passed to targetExclude into the files under it
