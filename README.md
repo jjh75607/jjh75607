@@ -14,6 +14,7 @@
 - [spring-projects/spring-batch#5503](https://github.com/spring-projects/spring-batch/pull/5503) — Check only the last execution when restarting a job instance
 - [springdoc/springdoc-openapi#3335](https://github.com/springdoc/springdoc-openapi/pull/3335) — Replace nested Page with PagedModel when serialization mode is VIA_DTO
 - [testcontainers/testcontainers-java#11996](https://github.com/testcontainers/testcontainers-java/pull/11996) — Declare the jar and shadowJar dependencies of the test classpath
+- [h2database/h2database#4379](https://github.com/h2database/h2database/pull/4379) — Reject COMMENT ON COLUMN for views and other tables that cannot be altered
 
 <!--
 **jjh75607/jjh75607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
