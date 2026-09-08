@@ -15,6 +15,7 @@
 - [springdoc/springdoc-openapi#3335](https://github.com/springdoc/springdoc-openapi/pull/3335) — Replace nested Page with PagedModel when serialization mode is VIA_DTO
 - [testcontainers/testcontainers-java#11996](https://github.com/testcontainers/testcontainers-java/pull/11996) — Declare the jar and shadowJar dependencies of the test classpath
 - [h2database/h2database#4379](https://github.com/h2database/h2database/pull/4379) — Reject COMMENT ON COLUMN for views and other tables that cannot be altered
+- [spring-projects/spring-batch#5529](https://github.com/spring-projects/spring-batch/pull/5529) — Preserve QName prefix in JacksonExecutionContextStringSerializer
 
 <!--
 **jjh75607/jjh75607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
