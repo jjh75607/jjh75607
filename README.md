@@ -16,6 +16,7 @@
 - [testcontainers/testcontainers-java#11996](https://github.com/testcontainers/testcontainers-java/pull/11996) — Declare the jar and shadowJar dependencies of the test classpath
 - [h2database/h2database#4379](https://github.com/h2database/h2database/pull/4379) — Reject COMMENT ON COLUMN for views and other tables that cannot be altered
 - [spring-projects/spring-batch#5529](https://github.com/spring-projects/spring-batch/pull/5529) — Preserve QName prefix in JacksonExecutionContextStringSerializer
+- [mapstruct/mapstruct#4122](https://github.com/mapstruct/mapstruct/pull/4122) — Fix target this source being reported as unmapped
 
 <!--
 **jjh75607/jjh75607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
